@@ -1,1 +1,2 @@
-# Deloitte-virtual-internship-
+## 🧠 Deloitte Data Analytics Job Simulation
+As part of Deloitte's virtual job simulation, I stepped into the role of a data analyst to work on a client-focused sales performance challenge. The simulation involved cleaning raw data, identifying regional and product-level trends, and building stakeholder-ready dashboards using Excel and Power BI. I crafted SQL queries to extract and segment insights, and transformed analytical findings into clear business recommendations. This experience sharpened my consulting mindset and reinforced skills in insight storytelling, client communication, and structured problem-solving.
